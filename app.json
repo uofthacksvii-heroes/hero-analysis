@@ -1,6 +1,6 @@
 {
-  "name": "MLH Hackathon Flask Starter",
-  "description": "A hackathon starting point for new Flask applications",
+  "name": "Responder ML",
+  "description": "Machine learning middleware",
   "repository": "https://github.com/MLH/mlh-hackathon-flask-starter.git",
   "logo": "https://avatars1.githubusercontent.com/u/5752708?s=100",
   "keywords": ["python", "flask"]
